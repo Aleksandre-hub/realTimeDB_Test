@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207620189059",
+    "project_id": "realtimedbtest-df830",
+    "storage_bucket": "realtimedbtest-df830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207620189059:android:e82f508228d836a00be4b6",
+        "android_client_info": {
+          "package_name": "com.example.realtimedb_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207620189059-ivu51eteaahal1frq310vk2628fvud76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wxZWDBV49ael_37AKGpLbe4Aci6o-J8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207620189059-ivu51eteaahal1frq310vk2628fvud76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
